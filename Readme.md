@@ -109,6 +109,6 @@ The analysis can support:
 
 This project is intended for analytical and educational purposes. Findings represent the data available in the underlying dataset and should be interpreted in the context of its coverage, definitions, and limitations.
 
-# Disclaimer
+## Important Note
 - .csv file is the dataset that .xlsx file is accessing in the power query and applying all transformations downstream based on that.
 - Download both files in project folder (.xlsx file and .csv file) and set path of csv file in power query advanced editor to run project on your local computer.
